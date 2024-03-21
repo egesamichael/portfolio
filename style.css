@@ -57,7 +57,7 @@ body {
 
 .right-hero{
     text-align: center;
-    padding: 10px 0px;
+    padding: 10px 0px 0px 0px;
  /*   background-image: url("assets/bg.avif"); */
     background-size: cover;
 }
