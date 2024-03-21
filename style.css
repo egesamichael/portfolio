@@ -1,0 +1,77 @@
+
+body {
+    font-family: sans-serif;
+}
+
+.main {
+    width: 80vw;
+    margin: 10px auto;
+}
+
+.nav{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.role {
+    color: blueviolet;
+    border-bottom: 5px solid blueviolet;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-around;
+  background-color: #EDF1FD;
+}
+.cta {
+    height: 90px;
+    padding: 15px 0;
+}
+.cta-btn {
+    background-color: blueviolet;
+    color: #fff;
+    width: 80px;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.menu {
+    height: 90px;
+    padding: 23px 0;
+}
+.menu-item {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px 10px;
+    color: #030303;
+}
+
+.menu-item:hover {
+   border-bottom: 5px solid #030303;
+   font-weight: bold;
+}
+
+.right-hero{
+    text-align: center;
+    padding: 10px 0px;
+ /*   background-image: url("assets/bg.avif"); */
+    background-size: cover;
+}
+.left-hero {
+    padding: 100px;
+}
+.cv-btn {
+    margin-top: 100px;
+    background-color: blueviolet;
+    color: #fff;
+    width: 80px;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
